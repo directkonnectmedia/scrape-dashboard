@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Scrape Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <h1>Scrape Dashboard</h1>
+      <div class="meta" id="meta">
+        <span id="meta-source">No scrape loaded</span>
+        <span class="sep">·</span>
+        <span id="meta-rows">0 rows</span>
+        <span class="sep">·</span>
+        <span id="meta-time">—</span>
+      </div>
+    </div>
+    <div class="actions">
+      <button id="btn-xlsx" class="btn btn-primary" disabled>Download Excel</button>
+      <button id="btn-csv" class="btn" disabled>Download CSV</button>
+      <button id="btn-clear" class="btn btn-ghost" disabled>Clear</button>
+    </div>
+  </header>
+
+  <main>
+    <div id="empty-state" class="empty">
+      <h2>No data yet</h2>
+      <p>Ask Claude to scrape a site. The results will appear here as a table you can export and share with your team.</p>
+    </div>
+
+    <div id="table-wrap" class="table-wrap" hidden>
+      <table id="data-table">
+        <thead></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer>
+    <span id="footer-title">scrapling-dashboard</span>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
