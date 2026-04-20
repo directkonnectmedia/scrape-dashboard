@@ -1,5 +1,246 @@
 {
-  "source": "",
-  "scraped_at": "",
-  "rows": []
+  "source": "Peoria, AZ businesses without a website — Yellow Pages / Yelp / BBB / Chamber of Commerce (multi-source)",
+  "scraped_at": "2026-04-20T00:00:00Z",
+  "rows": [
+    {
+      "name": "Nineveh Restaurant",
+      "category": "restaurant",
+      "address": "9864 W Peoria Ave, Peoria, AZ 85345",
+      "phone": "(623) 476-5206",
+      "social": "https://www.facebook.com/p/Nineveh-Restaurant-100072408066795/",
+      "source": "https://www.yellowpages.com/peoria-az/mip/nineveh-restaurant-502061300"
+    },
+    {
+      "name": "Ocarnivores",
+      "category": "restaurant",
+      "address": "9832 W Northern Ave Ste 1650, Peoria, AZ 85345",
+      "phone": "(623) 877-2524",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/ocarnivores-481229096"
+    },
+    {
+      "name": "Holsum Bakery Inc",
+      "category": "bakery",
+      "address": "9210 W Peoria Ave Ste 2, Peoria, AZ 85345",
+      "phone": "(623) 878-0569",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/holsum-bakery-5609865"
+    },
+    {
+      "name": "K-May Donuts & Bagels",
+      "category": "bakery",
+      "address": "8495 W Grand Ave, Peoria, AZ 85345",
+      "phone": "(623) 979-0040",
+      "social": "https://www.facebook.com/Sweet1990123/",
+      "source": "https://www.yellowpages.com/peoria-az/bakeries"
+    },
+    {
+      "name": "Landscaping By Vincent",
+      "category": "landscaping",
+      "address": "8936 W Custer Ln, Peoria, AZ 85381",
+      "phone": "(623) 876-9595",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/landscaping-by-vincent-1787902"
+    },
+    {
+      "name": "Budget Lawn",
+      "category": "landscaping",
+      "address": "7905 W Banff Ln, Peoria, AZ 85381",
+      "phone": "(623) 247-5413",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/budget-lawn-473280150"
+    },
+    {
+      "name": "Aztech Automotive & Transmission Repair, Inc.",
+      "category": "auto repair",
+      "address": "8070 N 75th Ave, Peoria, AZ 85345",
+      "phone": "(623) 915-0715",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/aztech-automotive-transmission-repair-inc-535238527"
+    },
+    {
+      "name": "America Sunshine Maintenance",
+      "category": "handyman",
+      "address": "Peoria, AZ 85345",
+      "phone": "(623) 295-2295",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/america-sunshine-maintenance-485823810"
+    },
+    {
+      "name": "Apollo Painting",
+      "category": "painting contractor",
+      "address": "23160 N 87th Ave, Peoria, AZ 85383",
+      "phone": "(623) 848-1680",
+      "social": "https://www.facebook.com/p/apollo-painting-100081749145387/",
+      "source": "https://www.yellowpages.com/peoria-az/mip/apollo-painting-25117399"
+    },
+    {
+      "name": "Fuches Builders",
+      "category": "home builder",
+      "address": "9218 W Davis Rd, Peoria, AZ 85382",
+      "phone": "(623) 680-3855",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/fuches-builders-25067357"
+    },
+    {
+      "name": "Alterations Plus",
+      "category": "alterations/tailor",
+      "address": "10875 N 85th Ave Ste 1, Peoria, AZ 85345",
+      "phone": "(623) 878-4221",
+      "social": "https://www.facebook.com/alterationsplusfeleciaowens/",
+      "source": "https://www.yellowpages.com/peoria-az/mip/alterations-plus-5484350"
+    },
+    {
+      "name": "Tax Doctor LLC",
+      "category": "tax preparation",
+      "address": "9299 W Olive Ave Ste 501, Peoria, AZ 85345",
+      "phone": "(602) 254-5723",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/tax-doctor-llc-17764274"
+    },
+    {
+      "name": "Lynn C Myers CPA's PLLC",
+      "category": "accountant/CPA",
+      "address": "9460 W Peoria Ave # B, Peoria, AZ 85345",
+      "phone": "(623) 979-8081",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/lynn-c-myers-cpas-pllc"
+    },
+    {
+      "name": "Mario's Barber Shop",
+      "category": "barber shop",
+      "address": "9720 W Peoria Ave #131, Peoria, AZ 85345",
+      "phone": "(623) 977-1755",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/marios-barber-shop-451349622"
+    },
+    {
+      "name": "Sidelines Barber Shop & Beauty Salon",
+      "category": "barber shop",
+      "address": "6750 W Olive Ave, Peoria, AZ 85345",
+      "phone": "(623) 334-0063",
+      "social": "https://www.facebook.com/sidelinesbarbers/",
+      "source": "https://www.yellowpages.com/peoria-az/mip/sidelines-barber-shop-504467580"
+    },
+    {
+      "name": "Peoria Electricians",
+      "category": "electrician",
+      "address": "7127 W Ironwood Dr, Peoria, AZ 85345",
+      "phone": "(623) 486-0752",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/electricians"
+    },
+    {
+      "name": "NW Valley Healing & Chiropractic - Duff, John M DC",
+      "category": "chiropractor",
+      "address": "8466 W Peoria Ave Ste 6, Peoria, AZ 85345",
+      "phone": "(623) 776-1555",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/nw-valley-healing-chiropractic-duff-john-m-dc-25138778"
+    },
+    {
+      "name": "Back to Basics Fitness",
+      "category": "gym/fitness",
+      "address": "8843 W Shaw Butte Dr, Peoria, AZ 85345",
+      "phone": "",
+      "social": "https://www.facebook.com/100083315583549/",
+      "source": "https://www.yellowpages.com/peoria-az/health-clubs"
+    },
+    {
+      "name": "Pure Fitness",
+      "category": "gym/fitness",
+      "address": "7759 W Bell Rd Ste 300, Peoria, AZ 85382",
+      "phone": "(623) 486-3900",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/pure-fitness-6438147"
+    },
+    {
+      "name": "CPA-On-Call",
+      "category": "accountant/CPA",
+      "address": "9516 W Peoria Ave #3, Peoria, AZ 85345",
+      "phone": "(623) 825-6590",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/cpa-on-call"
+    },
+    {
+      "name": "Peoria Tax & Accounting Services",
+      "category": "tax preparation",
+      "address": "8331 W Washington St, Peoria, AZ 85345",
+      "phone": "(623) 249-6833",
+      "social": "",
+      "source": "https://www.chamberofcommerce.com/business-directory/arizona/peoria"
+    },
+    {
+      "name": "Taqueria Los Angeles",
+      "category": "restaurant",
+      "address": "10590 N 90th Ave, Peoria, AZ 85345",
+      "phone": "(623) 334-3843",
+      "social": "",
+      "source": "https://www.yelp.com/biz/taqueria-los-angeles-peoria"
+    },
+    {
+      "name": "Taco Toppers",
+      "category": "food truck",
+      "address": "Peoria, AZ 85345",
+      "phone": "",
+      "social": "https://www.yelp.com/biz/taco-toppers-peoria",
+      "source": "https://www.yelp.com/biz/taco-toppers-peoria"
+    },
+    {
+      "name": "Let's Taco Bout Us",
+      "category": "food truck",
+      "address": "7440 W Peoria Ave, Peoria, AZ 85345",
+      "phone": "(480) 287-0985",
+      "social": "",
+      "source": "https://www.yelp.com/biz/let-s-taco-bout-us-peoria"
+    },
+    {
+      "name": "Waldos Tacos",
+      "category": "restaurant",
+      "address": "9241 W Grand Ave, Peoria, AZ 85345",
+      "phone": "(623) 776-6222",
+      "social": "",
+      "source": "https://www.yelp.com/biz/waldos-tacos-peoria-2"
+    },
+    {
+      "name": "Sun Garden Estates",
+      "category": "mobile home park",
+      "address": "8601 N 103rd Ave, Peoria, AZ 85345",
+      "phone": "(623) 977-2266",
+      "social": "",
+      "source": "https://www.businessyab.com/explore/united_states/arizona/maricopa_county/peoria/sun_garden_mobile_home_park/"
+    },
+    {
+      "name": "Mochilero Kitchen",
+      "category": "restaurant",
+      "address": "6791 W Happy Valley Rd #100, Peoria, AZ 85383",
+      "phone": "(623) 440-5588",
+      "social": "",
+      "source": "https://www.yellowpages.com/peoria-az/mip/mochilero-kitchen-556051630"
+    },
+    {
+      "name": "BB's Restaurant",
+      "category": "restaurant",
+      "address": "9858 W Peoria Ave, Peoria, AZ 85345",
+      "phone": "(623) 878-2332",
+      "social": "",
+      "source": "https://www.visitpeoriaaz.com/local-amenities/what-to-eat/american"
+    },
+    {
+      "name": "The Vig Peoria",
+      "category": "restaurant/bar",
+      "address": "9824 W Northern Ave #1840, Peoria, AZ 85345",
+      "phone": "(623) 231-7597",
+      "social": "",
+      "source": "https://www.chamberofcommerce.com/business-directory/arizona/peoria"
+    },
+    {
+      "name": "Bud's Barber Shop",
+      "category": "barber shop",
+      "address": "10455 N 83rd Ave, Peoria, AZ 85345",
+      "phone": "(623) 979-3610",
+      "social": "https://www.facebook.com/p/Buds-Barber-Shop/",
+      "source": "https://www.yellowpages.com/peoria-az/mip/buds-barber-shop-17070792"
+    }
+  ]
 }
